@@ -1,4 +1,4 @@
-## Your Name
+## Alexis Josephides
 
 An experienced product manager making the switch to engineering with Makers Academy - a 16 week software development bootcamp.
 
