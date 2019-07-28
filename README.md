@@ -1,20 +1,24 @@
-## Alexis Josephides
+# Alexis Josephides CV
 
+## Profile
 An experienced product manager making the switch to engineering with Makers Academy - a 16 week software development bootcamp.
 
-Academic training has always been heavily analytical and I've taken this outlook and critical thinking methods into my professional career where I ask "Why?" - a lot.
+I've worked across a range of industries and disciplines (academic, travel, media and energy) and love to learn, challenge and above all solve problems within a cross-functional team.
+
+Having worked in a technical capacity across these industries for many years I found myself being further and further removed from the problem and right now I am not ready to do so. I am taking this career switch so that I can get closer to the problems that a company faces and solve them with a set of skills that I can continue to learn and adapt.
+
+My academic training has always been heavily analytical and I've taken this outlook and critical thinking methods into my professional career where I ask "Why?" - a lot - to myself and peers.
 It's an incredibly powerful and simple question but allows for 3 things:
 - it helps to understand the problem fully, to get to the heart of details.
 - it forces one to be able to explain the problem fully and reflect on one's understanding of the problem
 - it forces one to really answer the question of whether this is the most valuable thing to be working on right now.
 
-I've worked across a range of industries and disciplines (academic, travel, media and energy) and love to learn, challenge and above all solve problems within a cross-functional team.
 
 ## Skills
 
 #### Excellent communicator
-
-I believe this stems from being a good synthesiser of ideas - understand and be able to 'playback' to a room options that they have suggested. Be open, honest and inclusive.
+I believe this stems from being a good synthesiser of ideas - understand and be able to 'playback' to a room options that they have suggested.  
+During my time at Makers feedback I recieved on multiple occasions from my classmates was that I am excellent at explaining concepts. That I was patient and clear with my explanations and as a result a good pair partner. Being able to explain a complicated concept utilises these same core communication skills.
 
 - Experience
 - Achievements
@@ -22,15 +26,13 @@ I believe this stems from being a good synthesiser of ideas - understand and be 
 
 #### Fast Learner
 
-Whether it be a new technology (Ruby), new industry or new problem.
+Whether it be a new technology (Ruby, Javascript), new industry or new problem.
+While at Makers I had my first true exposure to Javascript. Within my second of exposure I had understood the link between a Ruby backend and Javascript frontend by writing an API in Ruby that was utilised by clientside Javascript to render and then filter data. This was done without explicit direction but by thinking through the disparate concepts I had just be exposed to and then joining them together.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to Makers BnB where this was done.
 
 #### Team Lead
-- Get to the crux of what is the right problem to be working on and supporting a team to achieve that goal
+- Get to the crux of what is the right problem to be working on and supporting a team to achieve that goal. Over the years working as a product manager, senior product manager and group product manager this has been crucial - when resources are tight it is important to be working on the problem that will drive the most value for the business.
 
 ## Education
 
