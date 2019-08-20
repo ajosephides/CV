@@ -9,9 +9,9 @@ As my career developed I found that I was becoming further and further removed f
 
 My academic training was heavily analytical. I have benefitted from adopting this outlook and critical thinking methods into my professional career. One question I often ask myself and my peers is - "why?". I find that this simple question is an incredibly powerful tool in problem solving which:
 
-(1) helps us to really understand all aspects of a problem and get to the heart of the details;
-(2) forces us to reflect fully on our own understanding of a problem and develop the ability to explain it; and
-(3) encourages us to constantly review our position, focus, efficiency and allocation of resources.
+1. helps us to really understand all aspects of a problem and get to the heart of the details;
+2. forces us to reflect fully on our own understanding of a problem and develop the ability to explain it; and
+3. encourages us to constantly review our position, focus, efficiency and allocation of resources.
 
 My professional experience and my academic background and training give me a unique insight into understanding and appreciating the needs of a company and the ability to really contribute to a team. 
 
