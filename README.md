@@ -51,7 +51,7 @@ I like to get to the crux of what is the right problem to be working on and supp
 ## Education
 
 #### Makers Academy (May'19 - Aug'19)
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript, Sinatra, ORM 
 - RSpec, Jasmine, Cabybara, Simplecov
